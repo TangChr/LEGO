@@ -2,7 +2,7 @@
 List of Lego sets, that I have on display.
 
 ### Star Wars
-[AT-AT](http://brickset.com/sets/75075-1) (MicroFighters)
+* [AT-AT](http://brickset.com/sets/75075-1) (MicroFighters)
 * [AT-ST & Endor](http://brickset.com/sets/9679-1)
 * [A-wing Starfighter](http://brickset.com/sets/75003-1)
 * [Darth Vader's TIE Fighter](http://brickset.com/sets/8017-1)
@@ -47,6 +47,6 @@ List of Lego sets, that I have on display.
 * [Mud Masher](http://brickset.com/sets/8226-1)
 * [Volvo L350F Wheel Loader](http://brickset.com/sets/42030-1)
 
-Gear
+### Gear
 * [Landspeeder Bag Charm](http://brickset.com/sets/852245-1) (Unopened)
 * [Vader's TIE Fighter Bag Charm](http://brickset.com/sets/852115-1) (Unopened)
