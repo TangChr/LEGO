@@ -1,5 +1,5 @@
 # Sets
-List of Lego sets, that I have on display.
+List of Lego sets, I have on display.
 
 ### Star Wars
 * [AT-AT](http://brickset.com/sets/75075-1) (MicroFighters)

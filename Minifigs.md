@@ -1,5 +1,5 @@
-# Sets
-List of Lego minifigures, that I have on display.
+# Minifigures
+List of Lego minifigures I have on display.
 
 This list containes minifigures displayed alone or together with a set.
 
