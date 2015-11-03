@@ -2,25 +2,37 @@
 List of Lego sets, I have on display.
 
 ### Star Wars
-* [AT-AT](http://brickset.com/sets/75075-1) (MicroFighters)
-* [AT-ST & Endor](http://brickset.com/sets/9679-1)
 * [A-wing Starfighter](http://brickset.com/sets/75003-1)
 * [Darth Vader's TIE Fighter](http://brickset.com/sets/8017-1)
-* [Death Star Troopers](http://brickset.com/sets/75034-1)
 * [Droid Escape](http://brickset.com/sets/9490-1)
-* [Imperial Dropship](http://brickset.com/sets/7667-1)
-* [Imperial Shuttle](http://brickset.com/sets/10212-1)
 * [Midi-scale Millennium Falcon](http://brickset.com/sets/7778-1)
-* [Millennium Falcon](http://brickset.com/sets/75030-1) (MicroFighters, unopened)
 * [Motorised Walking AT-AT](http://brickset.com/sets/10178-1)
+* [TIE Fighter](http://brickset.com/sets/9492-1)
+* [X-wing Fighter](http://brickset.com/sets/6212-1)
+
+##### Battle Packs
+* [Death Star Troopers](http://brickset.com/sets/75034-1)
+* [Imperial Dropship](http://brickset.com/sets/7667-1)
 * [Rebel Scout Speeder](http://brickset.com/sets/7668-1)
+
+##### Ultimate Collector Series
+* [Imperial Shuttle](http://brickset.com/sets/10212-1)
 * [Sandcrawler](http://brickset.com/sets/75059-1)
 * [Slave I](http://brickset.com/sets/75060-1)
-* [Snowspeeder](http://brickset.com/sets/75074-1) (MicroFighters)
-* [TIE Fighter](http://brickset.com/sets/9492-1)
+
+##### MicroFighters
+* [AT-AT](http://brickset.com/sets/75075-1)
+* [Millennium Falcon](http://brickset.com/sets/75030-1) (unopened)
+* [Snowspeeder](http://brickset.com/sets/75074-1)
+* [X-Wing Fighter](http://brickset.com/sets/75032-1) (unopened)
+
+##### Planet Stes
+* [AT-ST & Endor](http://brickset.com/sets/9679-1)
 * [TIE Interceptor & Death Star](http://brickset.com/sets/9676-1)
-* [X-wing Fighter](http://brickset.com/sets/6212-1)
-* [X-Wing Fighter](http://brickset.com/sets/75032-1) (MicroFighters, unopened)
+
+##### Gear
+* [Landspeeder Bag Charm](http://brickset.com/sets/852245-1) (unopened)
+* [Vader's TIE Fighter Bag Charm](http://brickset.com/sets/852115-1) (unopened)
 
 ### Ideas
 * [Exo-Suit](http://brickset.com/sets/21109-1)
@@ -46,7 +58,3 @@ List of Lego sets, I have on display.
 ### Technic
 * [Mud Masher](http://brickset.com/sets/8226-1)
 * [Volvo L350F Wheel Loader](http://brickset.com/sets/42030-1)
-
-### Gear
-* [Landspeeder Bag Charm](http://brickset.com/sets/852245-1) (Unopened)
-* [Vader's TIE Fighter Bag Charm](http://brickset.com/sets/852115-1) (Unopened)
