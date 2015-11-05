@@ -27,7 +27,7 @@ This list containes minifigures displayed alone or together with a set.
 * [Han Solo, Reddish Brown Legs with Holster Pattern](http://brickset.com/minifigs/sw088)
 * [Han Solo (Stormtrooper outfit)](http://brickset.com/minifigs/sw205)
 * [Han Solo, Reddish Brown Legs with Holster Pattern, Vest with Pockets](http://brickset.com/minifigs/sw451)
-* 2 x [Han Solo, Dark Blue Legs, Vest with Pockets](http://brickset.com/minifigs/sw539)
+* [Han Solo, Dark Blue Legs, Vest with Pockets](http://brickset.com/minifigs/sw539)
 * [Han Solo, Reddish Brown Legs without Holster Pattern](http://brickset.com/minifigs/sw612)
 * [Imperial Gunner (Open mouth)](http://brickset.com/minifigs/sw520)
 * [Imperial Gunner (Closed mouth)](http://brickset.com/minifigs/sw529)
