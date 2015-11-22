@@ -2,59 +2,59 @@
 List of Lego sets, I have on display.
 
 ### Star Wars
-* [A-wing Starfighter](http://brickset.com/sets/75003-1)
-* [Darth Vader's TIE Fighter](http://brickset.com/sets/8017-1)
-* [Droid Escape](http://brickset.com/sets/9490-1)
-* [Midi-scale Millennium Falcon](http://brickset.com/sets/7778-1)
-* [Motorised Walking AT-AT](http://brickset.com/sets/10178-1)
-* [TIE Fighter](http://brickset.com/sets/9492-1)
-* [X-wing Fighter](http://brickset.com/sets/6212-1)
+* [75003 A-wing Starfighter](http://brickset.com/sets/75003-1)
+* [8017 Darth Vader's TIE Fighter](http://brickset.com/sets/8017-1)
+* [9490 Droid Escape](http://brickset.com/sets/9490-1)
+* [7778 Midi-scale Millennium Falcon](http://brickset.com/sets/7778-1)
+* [10178 Motorised Walking AT-AT](http://brickset.com/sets/10178-1)
+* [9492 TIE Fighter](http://brickset.com/sets/9492-1)
+* [6212 X-wing Fighter](http://brickset.com/sets/6212-1)
 
 ##### Battle Packs
-* [Death Star Troopers](http://brickset.com/sets/75034-1)
-* [Imperial Dropship](http://brickset.com/sets/7667-1)
-* [Rebel Scout Speeder](http://brickset.com/sets/7668-1)
+* [75034 Death Star Troopers](http://brickset.com/sets/75034-1)
+* [7667 Imperial Dropship](http://brickset.com/sets/7667-1)
+* [7668 Rebel Scout Speeder](http://brickset.com/sets/7668-1)
 
 ##### Ultimate Collector Series
-* [Imperial Shuttle](http://brickset.com/sets/10212-1)
-* [Sandcrawler](http://brickset.com/sets/75059-1)
-* [Slave I](http://brickset.com/sets/75060-1)
+* [10212 Imperial Shuttle](http://brickset.com/sets/10212-1)
+* [75059 Sandcrawler](http://brickset.com/sets/75059-1)
+* [75060 Slave I](http://brickset.com/sets/75060-1)
 
 ##### MicroFighters
-* [AT-AT](http://brickset.com/sets/75075-1)
-* [Millennium Falcon](http://brickset.com/sets/75030-1) (unopened)
-* [Snowspeeder](http://brickset.com/sets/75074-1)
-* [X-Wing Fighter](http://brickset.com/sets/75032-1) (unopened)
+* [75075 AT-AT](http://brickset.com/sets/75075-1)
+* [75030 Millennium Falcon](http://brickset.com/sets/75030-1) (unopened)
+* [75074 Snowspeeder](http://brickset.com/sets/75074-1)
+* [75032 X-Wing Fighter](http://brickset.com/sets/75032-1) (unopened)
 
 ##### Planet Stes
-* [AT-ST & Endor](http://brickset.com/sets/9679-1)
-* [TIE Interceptor & Death Star](http://brickset.com/sets/9676-1)
+* [9679 AT-ST & Endor](http://brickset.com/sets/9679-1)
+* [9676 TIE Interceptor & Death Star](http://brickset.com/sets/9676-1)
 
 ##### Gear
-* [Landspeeder Bag Charm](http://brickset.com/sets/852245-1) (unopened)
-* [Vader's TIE Fighter Bag Charm](http://brickset.com/sets/852115-1) (unopened)
+* [852245 Landspeeder Bag Charm](http://brickset.com/sets/852245-1) (unopened)
+* [852115 Vader's TIE Fighter Bag Charm](http://brickset.com/sets/852115-1) (unopened)
 
 ### Ideas
-* [Exo-Suit](http://brickset.com/sets/21109-1)
-* [Ghostbusters Ecto-1](http://brickset.com/sets/21108-1)
-* [NASA Mars Science Laboratory Curiosity Rover](http://brickset.com/sets/21104-1)
-* [The DeLorean Time Machine](http://brickset.com/sets/21103-1)
+* [21109 Exo-Suit](http://brickset.com/sets/21109-1)
+* [21108 Ghostbusters Ecto-1](http://brickset.com/sets/21108-1)
+* [21104 NASA Mars Science Laboratory Curiosity Rover](http://brickset.com/sets/21104-1)
+* [21103 The DeLorean Time Machine](http://brickset.com/sets/21103-1)
 
 ### Pirates
-* [Imperial Flagship](http://brickset.com/sets/10210-1)
+* [10210 Imperial Flagship](http://brickset.com/sets/10210-1)
 
 ### Creator
-* [Power Digger](http://brickset.com/sets/31014-1)
+* [31014 Power Digger](http://brickset.com/sets/31014-1)
 
 ### Promotional
-* [LEGO House](http://brickset.com/sets/4000010-1)
+* [4000010 LEGO House](http://brickset.com/sets/4000010-1)
 
 ### Collectable Minifigures
-* [Homer Simpson](http://brickset.com/sets/71005-1)
-* [Medusa](http://brickset.com/sets/71001-2)
-* [Mountain Climber](http://brickset.com/sets/71002-9)
-* [Saxophone Player](http://brickset.com/sets/71002-12)
+* [71001-2 Medusa](http://brickset.com/sets/71001-2)
+* [71002-9 Mountain Climber](http://brickset.com/sets/71002-9)
+* [71002-12 Saxophone Player](http://brickset.com/sets/71002-12)
+* [71005-1 Homer Simpson](http://brickset.com/sets/71005-1)
 
 ### Technic
-* [Mud Masher](http://brickset.com/sets/8226-1)
-* [Volvo L350F Wheel Loader](http://brickset.com/sets/42030-1)
+* [8226 Mud Masher](http://brickset.com/sets/8226-1)
+* [42030 Volvo L350F Wheel Loader](http://brickset.com/sets/42030-1)
