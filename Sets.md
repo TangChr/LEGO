@@ -44,6 +44,7 @@ List of Lego sets, I have on display.
 * [10210 Imperial Flagship](http://brickset.com/sets/10210-1)
 
 ### Creator
+* [31039 Blue Power Jet](http://brickset.com/sets/31039-1)
 * [31014 Power Digger](http://brickset.com/sets/31014-1)
 
 ### Promotional
