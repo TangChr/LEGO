@@ -26,7 +26,7 @@ List of Lego sets, I have on display.
 * [75074 Snowspeeder](http://brickset.com/sets/75074-1)
 * [75032 X-Wing Fighter](http://brickset.com/sets/75032-1) (unopened)
 
-##### Planet Stes
+##### Planet Sets
 * [9679 AT-ST & Endor](http://brickset.com/sets/9679-1)
 * [9676 TIE Interceptor & Death Star](http://brickset.com/sets/9676-1)
 
