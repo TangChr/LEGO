@@ -22,17 +22,11 @@ List of Lego sets, I have on display.
 
 ##### MicroFighters
 * [75075 AT-AT](http://brickset.com/sets/75075-1)
-* [75030 Millennium Falcon](http://brickset.com/sets/75030-1) (unopened)
 * [75074 Snowspeeder](http://brickset.com/sets/75074-1)
-* [75032 X-Wing Fighter](http://brickset.com/sets/75032-1) (unopened)
 
 ##### Planet Sets
 * [9679 AT-ST & Endor](http://brickset.com/sets/9679-1)
 * [9676 TIE Interceptor & Death Star](http://brickset.com/sets/9676-1)
-
-##### Gear
-* [852245 Landspeeder Bag Charm](http://brickset.com/sets/852245-1) (unopened)
-* [852115 Vader's TIE Fighter Bag Charm](http://brickset.com/sets/852115-1) (unopened)
 
 ### Ideas
 * [21109 Exo-Suit](http://brickset.com/sets/21109-1)
