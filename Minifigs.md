@@ -73,16 +73,6 @@ This list containes minifigures displayed alone or together with a set.
 * [Wicket (Ewok)](http://brickset.com/minifigs/sw237)
 * [Yoda](http://brickset.com/minifigs/sw051)
 
-### Ideas
-* [Marty McFly](http://brickset.com/minifigs/idea001)
-* [Doc Brown](http://brickset.com/minifigs/idea002)
-* [Dr. Egon Spengler - with Proton Pack](http://brickset.com/minifigs/idea003)
-* [Dr. Peter Venkman - with Proton Pack](http://brickset.com/minifigs/idea004)
-* [Dr. Raymond (Ray) Stantz - with Proton Pack](http://brickset.com/minifigs/idea005)
-* [Winston Zeddemore - with Proton Pack](http://brickset.com/minifigs/idea006)
-* [Pete](http://brickset.com/minifigs/idea007)
-* [Yve](http://brickset.com/minifigs/idea008)
-
 ### Pirates
 * [Imperial Soldier II - Shako Hat Decorated, Cheek Lines](http://brickset.com/minifigs/pi087)
 * [Imperial Soldier II - Shako Hat Decorated, Scowl](http://brickset.com/minifigs/pi090)
@@ -94,15 +84,37 @@ This list containes minifigures displayed alone or together with a set.
 * [Governor's Daughter](http://brickset.com/minifigs/pi121)
 * [Captain Brickbeard - Plain Bicorne Hat](http://brickset.com/minifigs/pi116)
 
+### Town
+* [Police - LEGO City Undercover Elite Police Motorcycle Officer](http://brickset.com/minifigs/cty357)
+
+### Ideas
+* [Marty McFly](http://brickset.com/minifigs/idea001)
+* [Doc Brown](http://brickset.com/minifigs/idea002)
+* [Dr. Egon Spengler - with Proton Pack](http://brickset.com/minifigs/idea003)
+* [Dr. Peter Venkman - with Proton Pack](http://brickset.com/minifigs/idea004)
+* [Dr. Raymond (Ray) Stantz - with Proton Pack](http://brickset.com/minifigs/idea005)
+* [Winston Zeddemore - with Proton Pack](http://brickset.com/minifigs/idea006)
+* [Pete](http://brickset.com/minifigs/idea007)
+* [Yve](http://brickset.com/minifigs/idea008)
+
+### Ghostbusters
+* [Dr. Egon Spengler, Printed Arms](http://brickset.com/minifigs/gb012a)
+* [Dr. Peter Venkman, Printed Arms, Slimed](http://brickset.com/minifigs/gb005a)
+* [Dr. Raymond (Ray) Stantz, Printed Arms](http://brickset.com/minifigs/gb013a)
+* [Dr. Winston Zeddemore, Printed Arms](http://brickset.com/minifigs/gb014a)
+* [Dana Barrett](http://brickset.com/minifigs/gb006)
+* [Janine Melnitz](http://brickset.com/minifigs/gb007)
+* [Louis Tully](http://brickset.com/minifigs/gb008)
+* [Slimer](http://brickset.com/minifigs/gb011)
+* [Library Ghost](http://brickset.com/minifigs/gb010)
+* [Zombie Driver](http://brickset.com/minifigs/gb009)
+
 ### Teenage Mutant Ninja Turtles
 * [Donatello (79105)](http://brickset.com/minifigs/tnt017)
 * [Leonardo (79104)](http://brickset.com/minifigs/tnt002)
 * [Michelangelo (79100)](http://brickset.com/minifigs/tnt012)
 * [Raphael](http://brickset.com/minifigs/tnt015)
 * [Splinter - Black Jacket (79117)](http://brickset.com/minifigs/tnt051)
-
-### Town
-* [Police - LEGO City Undercover Elite Police Motorcycle Officer](http://brickset.com/minifigs/cty357)
 
 ### Promotional
 * [LEGO House Minifig](http://brickset.com/minifigs/gen054)

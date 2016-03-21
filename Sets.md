@@ -41,6 +41,9 @@ List of Lego sets, I have on display.
 * [31039 Blue Power Jet](http://brickset.com/sets/31039-1)
 * [31014 Power Digger](http://brickset.com/sets/31014-1)
 
+### Ghostbusters
+* [75827 Firehouse Headquarters](http://brickset.com/sets/75827-1)
+
 ### Promotional
 * [4000010 LEGO House](http://brickset.com/sets/4000010-1)
 
