@@ -84,8 +84,15 @@ This list containes minifigures displayed alone or together with a set.
 * [Governor's Daughter](http://brickset.com/minifigs/pi121)
 * [Captain Brickbeard - Plain Bicorne Hat](http://brickset.com/minifigs/pi116)
 
-### Town
+### City
+
+##### Police
 * [Police - LEGO City Undercover Elite Police Motorcycle Officer](http://brickset.com/minifigs/cty357)
+
+##### Deep Sea Explores
+* [Deep Sea Submariner Male, Dark Red Knit Cap](http://brickset.com/minifigs/cty566)
+* [Scuba Diver, Female, Flippers](http://brickset.com/minifigs/cty559)
+* [Scuba Diver, Male, Flippers](http://brickset.com/minifigs/cty558)
 
 ### Ideas
 * [Marty McFly](http://brickset.com/minifigs/idea001)
