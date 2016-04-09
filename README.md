@@ -1,8 +1,8 @@
 LEGO on Display
 ===============
 Lists of every LEGO set and minifigure, I have on display.
-* [List of sets](https://github.com/TangChr/Lego-on-Display/blob/master/Sets.md)
-* [List of minifigures](https://github.com/TangChr/Lego-on-Display/blob/master/Minifigs.md)
+* [List of sets](Sets.md)
+* [List of minifigures](Minifigs.md)
 
 
 Complete Collection
