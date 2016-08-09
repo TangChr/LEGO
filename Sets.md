@@ -28,6 +28,9 @@ List of Lego sets, I have on display.
 * [9679 AT-ST & Endor](http://brickset.com/sets/9679-1)
 * [9676 TIE Interceptor & Death Star](http://brickset.com/sets/9676-1)
 
+##### Buildable Figures
+* [75111 Darth Vader](http://brickset.com/sets/75111-1)
+
 ### Ideas
 * [21109 Exo-Suit](http://brickset.com/sets/21109-1)
 * [21108 Ghostbusters Ecto-1](http://brickset.com/sets/21108-1)
