@@ -22,7 +22,9 @@ List of Lego sets, I have on display.
 
 ##### MicroFighters
 * [75075 AT-AT](http://brickset.com/sets/75075-1)
+* [75030 Millennium Falcon](http://brickset.com/sets/75030-1)
 * [75074 Snowspeeder](http://brickset.com/sets/75074-1)
+* [75032 X-Wing Fighter](http://brickset.com/sets/75032-1)
 
 ##### Planet Sets
 * [9679 AT-ST & Endor](http://brickset.com/sets/9679-1)

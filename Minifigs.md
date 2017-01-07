@@ -27,7 +27,7 @@ This list containes minifigures displayed alone or together with a set.
 * [Han Solo, Reddish Brown Legs with Holster Pattern](http://brickset.com/minifigs/sw088)
 * [Han Solo (Stormtrooper outfit)](http://brickset.com/minifigs/sw205)
 * [Han Solo, Reddish Brown Legs with Holster Pattern, Vest with Pockets](http://brickset.com/minifigs/sw451)
-* [Han Solo, Dark Blue Legs, Vest with Pockets](http://brickset.com/minifigs/sw539)
+* 2 x [Han Solo, Dark Blue Legs, Vest with Pockets](http://brickset.com/minifigs/sw539)
 * [Han Solo, Reddish Brown Legs without Holster Pattern](http://brickset.com/minifigs/sw612)
 * [Imperial Gunner (Open mouth)](http://brickset.com/minifigs/sw520)
 * [Imperial Gunner (Closed mouth)](http://brickset.com/minifigs/sw529)
@@ -55,7 +55,6 @@ This list containes minifigures displayed alone or together with a set.
 * [Snowspeeder Pilot](http://brickset.com/minifigs/sw597)
 * [Snowspeeder Pilot (75074)](http://brickset.com/minifigs/sw607)
 * 4 x [Rebel Scout Trooper](http://brickset.com/minifigs/sw187)
-* [X-Wing Pilot (75032)](http://brickset.com/minifigs/sw544)
 * [Royal Guard with Dark Red Arms and Hands](http://brickset.com/minifigs/sw521)
 * [Stormtrooper (Tatooine) with Orange Pauldron](http://brickset.com/minifigs/sw364)
 * [Stormtrooper (Tatooine) with White Pauldron](http://brickset.com/minifigs/sw383)
@@ -71,6 +70,7 @@ This list containes minifigures displayed alone or together with a set.
 * [Mini Treadwell Droid (75059)](http://brickset.com/minifigs/sw587)
 * [Wedge Antilles](http://brickset.com/minifigs/sw089)
 * [Wicket (Ewok)](http://brickset.com/minifigs/sw237)
+* [X-Wing Pilot (75032)](http://brickset.com/minifigs/sw544)
 * [Yoda](http://brickset.com/minifigs/sw051)
 
 ### Pirates
