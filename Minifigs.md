@@ -94,6 +94,12 @@ This list containes minifigures displayed alone or together with a set.
 * [Scuba Diver, Female, Flippers](http://brickset.com/minifigs/cty559)
 * [Scuba Diver, Male, Flippers](http://brickset.com/minifigs/cty558)
 
+##### Fire
+* [Fire  - Reflective Stripes with Utility Belt, White Fire Helmet, Breathing Neck Gear with Airtanks, Trans Black Visor, Beard Stubble](http://brickset.com/minifigs/cty628)
+* [Fire - Scuba Diver, Black Flippers, Dark Bluish Gray Scuba Tank, White Helmet, Trans-Light Blue Scuba Mask](http://brickset.com/minifigs/cty639)
+* [Fire - Reflective Stripes with Utility Belt and Flashlight, Life Jacket Center Buckle, White Helmet, Trans-Black Visor, Peach Lips Open Mouth Smile](http://brickset.com/minifigs/cty640)
+* [Construction Worker - Chest Pocket Zippers, Belt over Dark Gray Hoodie, Dark Blue Legs, Dark Blue Cap with Hole](http://brickset.com/minifigs/cty641)
+
 ### Ideas
 * [Marty McFly](http://brickset.com/minifigs/idea001)
 * [Doc Brown](http://brickset.com/minifigs/idea002)
