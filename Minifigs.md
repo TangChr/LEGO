@@ -109,6 +109,11 @@ This list containes minifigures displayed alone or together with a set.
 * [Winston Zeddemore - with Proton Pack](http://brickset.com/minifigs/idea006)
 * [Pete](http://brickset.com/minifigs/idea007)
 * [Yve](http://brickset.com/minifigs/idea008)
+* [The Beatles - John](http://brickset.com/minifigs/idea025)
+* [The Beatles - Paul](http://brickset.com/minifigs/idea026)
+* [The Beatles - George](http://brickset.com/minifigs/idea027)
+* [The Beatles - Ringo](http://brickset.com/minifigs/idea028)
+* [The Beatles - Jeremy](http://brickset.com/minifigs/idea029)
 
 ### Ghostbusters
 * [Dr. Egon Spengler, Printed Arms](http://brickset.com/minifigs/gb012a)
