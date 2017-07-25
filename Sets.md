@@ -48,9 +48,6 @@ List of Lego sets, I have on display.
 ##### Deep Sea Explores
 * [60092 Deep Sea Submarine](http://brickset.com/sets/60092-1)
 
-##### Fire
-* [60106 Fire Starter Set](http://brickset.com/sets/60106-1)
-
 ### Creator
 * [31039 Blue Power Jet](http://brickset.com/sets/31039-1)
 * [31014 Power Digger](http://brickset.com/sets/31014-1)
