@@ -19,6 +19,7 @@ List of Lego sets, I have on display.
 * [10212 Imperial Shuttle](http://brickset.com/sets/10212-1)
 * [75059 Sandcrawler](http://brickset.com/sets/75059-1)
 * [75060 Slave I](http://brickset.com/sets/75060-1)
+* [75144 Snowspeeder](http://brickset.com/sets/75144-1)
 
 ##### MicroFighters
 * [75075 AT-AT](http://brickset.com/sets/75075-1)
