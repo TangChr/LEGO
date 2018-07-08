@@ -38,6 +38,7 @@ List of Lego sets, I have on display.
 * [21306 The Beatles Yellow Submarine](http://brickset.com/sets/21306-1)
 * [21109 Exo-Suit](http://brickset.com/sets/21109-1)
 * [21108 Ghostbusters Ecto-1](http://brickset.com/sets/21108-1)
+* [21309 NASA Apollo Saturn V](http://brickset.com/sets/21309-1)
 * [21104 NASA Mars Science Laboratory Curiosity Rover](http://brickset.com/sets/21104-1)
 * [21103 The DeLorean Time Machine](http://brickset.com/sets/21103-1)
 

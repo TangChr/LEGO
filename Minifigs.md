@@ -110,6 +110,8 @@ This list containes minifigures displayed alone or together with a set.
 * [The Beatles - George](http://brickset.com/minifigs/idea027)
 * [The Beatles - Ringo](http://brickset.com/minifigs/idea028)
 * [The Beatles - Jeremy](http://brickset.com/minifigs/idea029)
+* Nanofigures
+  * 3 x [Astronaut](https://brickset.com/parts/6199668/mini-figure-trophy-no-12)
 
 ### Ghostbusters
 * [Dr. Egon Spengler, Printed Arms](http://brickset.com/minifigs/gb012a)
