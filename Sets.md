@@ -67,5 +67,5 @@ List of Lego sets, I have on display.
 * [71005-1 Homer Simpson](http://brickset.com/sets/71005-1)
 
 ### Technic
-* [8226 Mud Masher](http://brickset.com/sets/8226-1)
+* [42056 Porsche 911 GT3 RS](http://brickset.com/sets/42056-1)
 * [42030 Volvo L350F Wheel Loader](http://brickset.com/sets/42030-1)
